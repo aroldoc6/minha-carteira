@@ -1,0 +1,138 @@
+export default [
+                                                 //pagamentos de janeiro 
+{"description":"Dizimo",   "amount":"58.5", "type":"saída","frequency":"recorrente","date":"2022-01-06"},
+{"description":"Vivo Tv",   "amount":"139.89", "type":"saída","frequency":"recorrente","date":"2022-01-25"},
+{"description":"Claro fixo", "amount":"43.12", "type":"saída","frequency":"recorrente","date":"2022-01-06"},
+{"description":"Enel",      "amount":"114.92", "type":"saída","frequency":"recorrente","date":"2022-01-15"},
+{"description":"Claro",    "amount":"95.00", "type":"saída","frequency":"recorrente","date":"2022-01-20"},
+{"description":"NetFlix", "amount":"25.90", "type":"saída","frequency":"recorrente",  "date":"2022-01-13"},
+{"description":"Arduino para modelismo",  "amount":"4.99", "type":"saída","frequency":"recorrente",  "date":"2022-01-06"},
+{"description":"DisneyPlus", "amount":"27.90", "type":"saída","frequency":"recorrente",  "date":"2022-01-02"},
+{"description":"Paramount", "amount":"19.90", "type":"saída","frequency":"recorrente",  "date":"2022-01-29"},
+{"description":"TreinaWeb",     "amount":"58.61", "type":"saída","frequency":"eventual",  "date":"2022-01-06"},
+ {"description":"Rockeaset",     "amount":"59.67", "type":"saída","frequency":"eventual",  "date":"2022-01-06"},
+                                               //pagamentos de fevereiro 
+{"description":"Dizimo",   "amount":"58.5", "type":"saída","frequency":"recorrente","date":"2022-02-06"},
+{"description":"Vivo Tv",   "amount":"139.89", "type":"saída","frequency":"recorrente","date":"2022-02-25"},
+{"description":"Enel",      "amount":"114.92", "type":"saída","frequency":"recorrente","date":"2022-02-15"},
+{"description":"Claro fixo", "amount":"43.12", "type":"saída","frequency":"recorrente","date":"2022-02-06"},
+{"description":"Claro",    "amount":"95.00", "type":"saída","frequency":"recorrente","date":"2022-02-20"},
+{"description":"NetFlix", "amount":"25.90", "type":"saída","frequency":"recorrente",  "date":"2022-02-13"},
+{"description":"Arduino para modelismo",  "amount":"4.99", "type":"saída","frequency":"recorrente",  "date":"2022-02-06"},
+{"description":"DisneyPlus", "amount":"27.90", "type":"saída","frequency":"recorrente",  "date":"2022-02-02"},
+{"description":"Paramount", "amount":"19.90", "type":"saída","frequency":"recorrente",  "date":"2022-02-29"},
+{"description":"TreinaWeb",     "amount":"58.61", "type":"saída","frequency":"eventual",  "date":"2022-02-06"},
+{"description":"Rockeaset",     "amount":"59.67", "type":"saída","frequency":"eventual",  "date":"2022-02-06"},
+                                               //pagamentos de março
+{"description":"Dizimo",   "amount":"58.5", "type":"saída","frequency":"recorrente","date":"2022-03-06"},
+{"description":"Vivo Tv",   "amount":"139.89", "type":"saída","frequency":"recorrente","date":"2022-03-25"},
+{"description":"Enel",      "amount":"114.92", "type":"saída","frequency":"recorrente","date":"2022-03-15"},
+{"description":"Claro fixo", "amount":"43.12", "type":"saída","frequency":"recorrente","date":"2022-03-06"},
+{"description":"Claro",    "amount":"95.00", "type":"saída","frequency":"recorrente","date":"2022-03-20"},
+{"description":"NetFlix", "amount":"25.90", "type":"saída","frequency":"recorrente",  "date":"2022-03-13"},
+{"description":"Arduino para modelismo",  "amount":"4.99", "type":"saída","frequency":"recorrente",  "date":"2022-03-06"},
+{"description":"DisneyPlus", "amount":"27.90", "type":"saída","frequency":"recorrente",  "date":"2022-03-02"},
+{"description":"Paramount", "amount":"19.90", "type":"saída","frequency":"recorrente",  "date":"2022-03-29"},
+{"description":"TreinaWeb",     "amount":"58.61", "type":"saída","frequency":"eventual",  "date":"2022-03-06"},
+{"description":"Rockeaset",     "amount":"59.67", "type":"saída","frequency":"eventual",  "date":"2022-03-06"},
+
+                                               //pagamentos de abril
+{"description":"Dizimo",   "amount":"58.5", "type":"saída","frequency":"recorrente","date":"2022-04-06"},
+{"description":"Vivo Tv",   "amount":"139.89", "type":"saída","frequency":"recorrente","date":"2022-04-25"},
+{"description":"Enel",      "amount":"114.92", "type":"saída","frequency":"recorrente","date":"2022-04-15"},
+{"description":"Claro fixo", "amount":"43.12", "type":"saída","frequency":"recorrente","date":"2022-04-06"},
+{"description":"Claro",    "amount":"95.00", "type":"saída","frequency":"recorrente","date":"2022-04-20"},
+{"description":"NetFlix", "amount":"25.90", "type":"saída","frequency":"recorrente",  "date":"2022-04-13"},
+{"description":"Arduino para modelismo",  "amount":"4.99", "type":"saída","frequency":"recorrente",  "date":"2022-04-06"},
+{"description":"DisneyPlus", "amount":"27.90", "type":"saída","frequency":"recorrente",  "date":"2022-04-02"},
+{"description":"Paramount", "amount":"19.90", "type":"saída","frequency":"recorrente",  "date":"2022-04-29"},
+{"description":"TreinaWeb",     "amount":"58.61", "type":"saída","frequency":"eventual",  "date":"2022-04-06"},
+{"description":"Rockeaset",     "amount":"59.67", "type":"saída","frequency":"eventual",  "date":"2022-04-06"},
+
+                                               //pagamentos de maio 
+{"description":"Dizimo",   "amount":"58.5", "type":"saída","frequency":"recorrente","date":"2022-05-06"},
+{"description":"Vivo Tv",   "amount":"139.89", "type":"saída","frequency":"recorrente","date":"2022-05-25"},
+{"description":"Enel",      "amount":"114.92", "type":"saída","frequency":"recorrente","date":"2022-05-15"},
+{"description":"Claro fixo", "amount":"43.12", "type":"saída","frequency":"recorrente","date":"2022-05-06"},
+{"description":"Claro",    "amount":"95.00", "type":"saída","frequency":"recorrente","date":"2022-05-20"},
+{"description":"NetFlix", "amount":"25.90", "type":"saída","frequency":"recorrente",  "date":"2022-05-13"},
+{"description":"Arduino para modelismo",  "amount":"4.99", "type":"saída","frequency":"recorrente",  "date":"2022-05-06"},
+{"description":"DisneyPlus", "amount":"27.90", "type":"saída","frequency":"recorrente",  "date":"2022-05-02"},
+{"description":"Paramount", "amount":"19.90", "type":"saída","frequency":"recorrente",  "date":"2022-05-29"},
+{"description":"TreinaWeb",     "amount":"58.61", "type":"saída","frequency":"eventual",  "date":"2022-05-06"},
+ {"description":"Rockeaset",     "amount":"59.67", "type":"saída","frequency":"eventual",  "date":"2022-05-06"},
+                                               
+                                               //pagamentos de junho 
+{"description":"Dizimo",   "amount":"58.5", "type":"saída","frequency":"recorrente","date":"2022-06-06"},
+{"description":"Vivo Tv",   "amount":"139.89", "type":"saída","frequency":"recorrente","date":"2022-06-25"},
+{"description":"Enel",      "amount":"114.92", "type":"saída","frequency":"recorrente","date":"2022-06-15"},
+{"description":"Claro fixo", "amount":"43.12", "type":"saída","frequency":"recorrente","date":"2022-06-06"},
+ {"description":"Claro",    "amount":"95.00", "type":"saída","frequency":"recorrente","date":"2022-06-20"},
+ {"description":"NetFlix", "amount":"25.90", "type":"saída","frequency":"recorrente",  "date":"2022-06-13"},
+ {"description":"Arduino para modelismo",  "amount":"4.99", "type":"saída","frequency":"recorrente",  "date":"2022-06-06"},
+{"description":"DisneyPlus", "amount":"27.90", "type":"saída","frequency":"recorrente",  "date":"2022-06-02"},
+ {"description":"Paramount", "amount":"19.90", "type":"saída","frequency":"recorrente",  "date":"2022-06-29"},
+  {"description":"TreinaWeb",     "amount":"58.61", "type":"saída","frequency":"eventual",  "date":"2022-06-06"},
+  {"description":"Rockeaset",     "amount":"59.67", "type":"saída","frequency":"eventual",  "date":"2022-06-06"},
+
+                                              //pagamentos de julho 
+  {"description":"Dizimo",   "amount":"58.5", "type":"saída","frequency":"recorrente","date":"2022-07-06"},
+  {"description":"Vivo Tv",   "amount":"139.89", "type":"saída","frequency":"recorrente","date":"2022-07-25"},
+  {"description":"Enel",      "amount":"114.92", "type":"saída","frequency":"recorrente","date":"2022-07-15"},
+  {"description":"Claro fixo", "amount":"43.12", "type":"saída","frequency":"recorrente","date":"2022-07-06"},
+  {"description":"Claro",    "amount":"95.00", "type":"saída","frequency":"recorrente","date":"2022-07-20"},
+  {"description":"NetFlix", "amount":"25.90", "type":"saída","frequency":"recorrente",  "date":"2022-07-13"},
+  {"description":"Arduino para modelismo",  "amount":"4.99", "type":"saída","frequency":"recorrente",  "date":"2022-07-06"},
+  {"description":"DisneyPlus", "amount":"27.90", "type":"saída","frequency":"recorrente",  "date":"2022-07-02"},
+  {"description":"Paramount", "amount":"19.90", "type":"saída","frequency":"recorrente",  "date":"2022-07-29"},
+  {"description":"TreinaWeb",     "amount":"58.61", "type":"saída","frequency":"eventual",  "date":"2022-07-06"},
+  {"description":"Rockeaset",     "amount":"59.67", "type":"saída","frequency":"eventual",  "date":"2022-07-06"},
+  {"description":"Pizza",              "amount":"36.00", "type":"saída","frequency":"eventual",  "date":"2022-07-02"},
+  {"description":"Hortifruty",         "amount":"20.98", "type":"saída","frequency":"eventual",  "date":"2022-07-23"},
+ {"description":"Play",               "amount":"150.98", "type":"saída","frequency":"eventual",  "date":"2022-07-01"},
+{"description":"feira",              "amount":"58.61", "type":"saída","frequency":"eventual",  "date":"2022-07-11"},
+{"description":"mercado",            "amount":"59.67", "type":"saída","frequency":"eventual",  "date":"2022-07-10"},
+  {"description":"Shopee",               "amount":"336.22", "type":"saída","frequency":"eventual",  "date":"2022-07-02"},
+ 
+                                     
+ 
+
+                                            //pagamentos de agosto
+  //{"description":"Dizimo",     "amount":"64.70", "type":"saída","frequency":"recorrente","date":"2022-08-06"},
+ //{"description":"Claro fixo", "amount":"43.12", "type":"saída","frequency":"recorrente","date":"2022-08-06"},
+  //{"description":"Santander",  "amount":"77.85", "type":"saída","frequency":"recorrente","date":"2022-08-06"},
+  //{"description":"Tarifa",     "amount":"23.70", "type":"saída","frequency":"recorrente","date":"2022-08-06"},
+  {"description":"Claro Movel",     "amount":"95.00", "type":"saída","frequency":"recorrente","date":"2022-08-20"},
+ {"description":"VivoTv", "amount":"139.89", "type":"saída","frequency":"recorrente","date":"2022-08-06"},
+  {"description":"Santander",  "amount":"77.85", "type":"saída","frequency":"recorrente","date":"2022-08-06"},
+  {"description":"Tarifa",     "amount":"23.70", "type":"saída","frequency":"recorrente","date":"2022-08-06"},
+  //{"description":"TreinaWeb",     "amount":"58.61", "type":"saída","frequency":"eventual",  "date":"2022-08-06"},
+ //{"description":"Rockeaset",     "amount":"59.67", "type":"saída","frequency":"eventual",  "date":"2022-08-06"},
+ //{"description":"soprador térmico",  "amount":"128.70", "type":"saída","frequency":"eventual",  "date":"2022-08-06"},
+ //{"description":"Dora",          "amount":"13.5", "type":"saída","frequency":"eventual",  "date":"2022-08-06"}, 
+ //{"description":"Uber",          "amount":"29.90", "type":"saída","frequency":"eventual",  "date":"2022-08-08"}, 
+]
+  /*
+                                        // pagamentos setembro
+ {"description":"Dizimo",     "amount":"64.70", "type":"saída","frequency":"recorrente","date":"2022-09-06"},
+ {"description":"Claro fixo", "amount":"43.12", "type":"saída","frequency":"recorrente","date":"2022-09-06"},
+{"description":"Santander",  "amount":"77.85", "type":"saída","frequency":"recorrente","date":"2022-09-06"},
+{"description":"Tarifa",     "amount":"23.70", "type":"saída","frequency":"recorrente","date":"2022-09-06"}, 
+                               
+                                        //pagamentos outubro
+{"description":"Dizimo",     "amount":"64.70", "type":"saída","frequency":"recorrente","date":"2022-10-06"},
+{"description":"Claro fixo", "amount":"43.12", "type":"saída","frequency":"recorrente","date":"2022-10-06"},
+{"description":"Santander",  "amount":"77.85", "type":"saída","frequency":"recorrente","date":"2022-10-06"},
+{"description":"Tarifa",     "amount":"23.70", "type":"saída","frequency":"recorrente","date":"2022-10-06"},
+ 
+                                      //pagamentos novembro
+{"description":"Dizimo",     "amount":"64.70", "type":"saída","frequency":"recorrente","date":"2022-11-06"},
+{"description":"Claro fixo", "amount":"43.12", "type":"saída","frequency":"recorrente","date":"2022-11-06"},
+{"description":"Santander",  "amount":"77.85", "type":"saída","frequency":"recorrente","date":"2022-11-06"},
+ {"description":"Tarifa",     "amount":"23.70", "type":"saída","frequency":"recorrente","date":"2022-11-06"},
+                                      //pagamento dezembro
+{"description":"Dizimo",     "amount":"64.70", "type":"saída","frequency":"recorrente","date":"2022-12-06"},
+{"description":"Claro fixo", "amount":"43.12", "type":"saída","frequency":"recorrente","date":"2022-12-06"},
+{"description":"Santander",  "amount":"77.85", "type":"saída","frequency":"recorrente","date":"2022-12-06"},
+{"description":"Tarifa",     "amount":"23.70", "type":"saída","frequency":"recorrente","date":"2022-12-06"},
+*/
